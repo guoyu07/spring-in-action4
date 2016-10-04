@@ -17,3 +17,11 @@
             @PropertySource
         SpEL
 第四章 面向切面的Spring
+    4.1AOP
+        横切关注点->特殊的类->切面
+        AOP术语
+            通知(advice)
+            切点(pointcut)
+            连接点(joinpoint)
+            引入(introduction)
+            织入(weaving)
